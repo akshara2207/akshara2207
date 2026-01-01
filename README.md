@@ -1,13 +1,13 @@
 Hi there 👋
-👤 About Me
+# 👤 About Me
 
 MCA graduate and self-driven developer with hands-on experience building independent projects using Python, Django, Java, Spring Boot, and React.
 
-🔭 Current Focus
+# 🔭 Current Focus
 
 Actively developing personal projects and exploring Python-based backend systems and full-stack applications.
 
-🤖 AI & ML Interest
+# 🤖 AI & ML Interest
 
 Currently learning and experimenting with Python Machine Learning, AI agents, and AI-related models, with a strong interest in transitioning into AI/ML engineering roles.
 
