@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 # 👤 About Me
 
 MCA graduate and self-driven developer with hands-on experience building independent projects using Python, Django, Java, Spring Boot, and React.
